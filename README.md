@@ -6,3 +6,6 @@
  :hammer: Funcionalidades do projeto
  
  > Este projeto foi criado para fazer o sorteio do numero secreto, usando html, css e javascrip.
+
+
+>: https://michael-lima.github.io/Numero-Secreto/
